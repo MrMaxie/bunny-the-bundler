@@ -134,12 +134,6 @@ Tell for Bunny that you finished your building process
 
 - `return: void`
 
-## done()
-
-Tell for Bunny that you finished your building process
-
-- `return: void`
-
 ## fail(reason)
 
 Tell for Bunny that you finished your building process but with error
