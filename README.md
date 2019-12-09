@@ -1,4 +1,4 @@
-<center><img src="./bunnyLogo.png" width="250px" /></center>
+<p align="center"><img src="./bunnyLogo.png" width="250px" alt="Bunny in the bundle ^^" /></p>
 
 # Bunny the Bundler
 
