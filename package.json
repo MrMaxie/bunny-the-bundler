@@ -27,7 +27,7 @@
     "chalk": "3.0.0",
     "cheerio": "1.0.0-rc.3",
     "chokidar": "3.3.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "ora": "4.0.3",
     "q": "1.5.1",
     "require-at": "1.0.4",
